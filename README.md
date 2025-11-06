@@ -1,1 +1,0 @@
-# pushinpay-api
